@@ -46,7 +46,7 @@
 
 <div align="center">
   📫 <b>Connect with me:</b><br><br>
-  <a href="https://www.linkedin.com/in/ahmet-melik-utlu">
+  <a href="[LinkedIn](https://www.linkedin.com/in/ahmet-melik-utlu-3107a5440/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/Ahmwet.sql">

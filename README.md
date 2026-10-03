@@ -5,18 +5,18 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/Ahmwet">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ahmwet&show_icons=true&theme=dark&hide_border=true&title_color=fff&text_color=ccc&icon_color=4078c0&bg_color=0d1117" alt="GitHub Stats" width="400"/>
+  <a href="https://github.com/westrox1337">
+    <img src="https://github-readme-stats.vercel.app/api?username=westrox1337&show_icons=true&theme=dark&hide_border=true&title_color=fff&text_color=ccc&icon_color=4078c0&bg_color=0d1117&count_private=true" alt="GitHub Stats" width="400"/>
   </a>
-  <a href="https://github.com/Ahmwet">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmwet&layout=compact&theme=dark&hide_border=true&title_color=fff&text_color=ccc&bg_color=0d1117" alt="Top Languages" width="380"/>
+  <a href="https://github.com/westrox1337">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=westrox1337&layout=compact&theme=dark&hide_border=true&title_color=fff&text_color=ccc&bg_color=0d1117&count_private=true" alt="Top Languages" width="380"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmwet&theme=dark&hide_border=true&background=0D1117&stroke=00000000&ring=4078c0&fire=4078c0&currStreakNum=fff&sideNums=ccc&sideTitle=ccc" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=westrox1337&theme=dark&hide_border=true&background=0D1117&stroke=00000000&ring=4078c0&fire=4078c0&currStreakNum=fff&sideNums=ccc&sideTitle=ccc" alt="Streak Stats"/>
 </div>
 
 <br>
@@ -39,14 +39,14 @@
 ### 🚀 About Me & Highlights
 - 🎓 **Education:** Information Technology Student at Avcılar MTAL
 - 🤖 **Robotics:** Software Developer for FRC 2027 Team BIOCORE
-- 💻 **Focus:** Backend Development, Discord,Telegram / Automation Bots, WPILib Java & Low-Level C++ Research
+- 💻 **Focus:** Backend Development, Discord/Automation Bots, WPILib Java & Low-Level C++ Research
 - 📦 **Featured Project:** `mios-backend` (Node.js, Express, MongoDB REST API)
 
 <br>
 
 <div align="center">
   📫 <b>Connect with me:</b><br><br>
-  <a href="[LinkedIn](https://www.linkedin.com/in/ahmet-melik-utlu-3107a5440/)">
+  <a href="https://www.linkedin.com/in/ahmet-melik-utlu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/Ahmwet.sql">

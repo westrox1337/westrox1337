@@ -39,7 +39,7 @@
 ### 🚀 About Me & Highlights
 - 🎓 **Education:** Information Technology Student at Avcılar MTAL
 - 🤖 **Robotics:** Software Developer for FRC 2027 Team BIOCORE
-- 💻 **Focus:** Backend Development, Discord/Automation Bots, WPILib Java & Low-Level C++ Research
+- 💻 **Focus:** Backend Development, Discord,Telegram / Automation Bots, WPILib Java & Low-Level C++ Research
 - 📦 **Featured Project:** `mios-backend` (Node.js, Express, MongoDB REST API)
 
 <br>

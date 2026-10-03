@@ -9,7 +9,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=westrox1337&show_icons=true&theme=dark&hide_border=true&title_color=fff&text_color=ccc&icon_color=4078c0&bg_color=0d1117&count_private=true" alt="GitHub Stats" width="400"/>
   </a>
   <a href="https://github.com/westrox1337">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=westrox1337&layout=compact&theme=dark&hide_border=true&title_color=fff&text_color=ccc&bg_color=0d1117&count_private=true" alt="Top Languages" width="380"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=westrox1337&layout=donut&theme=dark&hide_border=true&title_color=fff&text_color=ccc&bg_color=0d1117&count_private=true&langs_count=6" alt="Top Languages" width="380"/>
   </a>
 </div>
 
